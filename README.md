@@ -71,7 +71,8 @@
 
 ## 🏆 Achievements
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=TheRawon&theme=tokyonight)
+![Trophies](https://github-profile-trophy.vercel.app/?username=TheRawon&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10)
+
 
 ---
 
