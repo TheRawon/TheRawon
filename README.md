@@ -59,7 +59,7 @@
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/TheRawon/TheRawon/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/TheRawon/TheRawon-snake/output/github-contribution-grid-snake.svg)
 
 ---
 
