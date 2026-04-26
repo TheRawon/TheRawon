@@ -54,8 +54,7 @@
 
 ## 🧠 Top Languages
 
-![All Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheRawon&theme=tokyonight)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRawon&layout=compact&langs_count=20&theme=tokyonight)
 
 ---
 
