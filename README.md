@@ -53,7 +53,11 @@
 
 ## 🧠 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRawon\&layout=compact\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRawon&layout=compact&langs_count=10&theme=tokyonight)
+
+![More Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheRawon&theme=tokyonight)
+
 
 ---
 
@@ -61,7 +65,6 @@
 
 ![Snake animation](https://raw.githubusercontent.com/TheRawon/TheRawon-snake/output/github-contribution-grid-snake.svg)
 
-![snake gif](https://github.com/TheRawon/TheRawon/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
