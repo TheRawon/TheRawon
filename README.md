@@ -129,9 +129,9 @@ class Developer
 
 <br />
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TheRawon&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
-</div>
+</div> -->
 
 ---
 
