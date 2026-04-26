@@ -71,9 +71,7 @@
 
 ## 🏆 Achievements
 
-## 🏆 Achievements
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=TheRawon&theme=darkhub&no-frame=true&margin-w=10)
+![Trophies](https://github-profile-trophy.vercel.app/?username=TheRawon)
 
 ---
 
