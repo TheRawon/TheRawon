@@ -59,6 +59,8 @@
 
 ## 🐍 Contribution Snake Animation
 
+![Snake animation](https://raw.githubusercontent.com/TheRawon/TheRawon-snake/output/github-contribution-grid-snake.svg)
+
 ![snake gif](https://github.com/TheRawon/TheRawon/blob/output/github-contribution-grid-snake.svg)
 
 ---
