@@ -161,9 +161,9 @@ class DeveloperProfile
 
 <br />
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TheRawon&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
-</div>
+</div> -->
 
 ---
 
@@ -178,5 +178,5 @@ class DeveloperProfile
 ## Philosophy
 
 <div align="center">
-  <sub>Build products that are clean in code, clear in design, and reliable in real use.</sub>
+  <h3>Build products that are clean in code, clear in design, and reliable in real use.</h3>
 </div>
