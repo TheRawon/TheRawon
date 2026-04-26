@@ -10,7 +10,7 @@
 
 # Prakash Yadav
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Backend+Developer;PHP+%26+Laravel+Specialist;Building+Scalable+Web+Applications;Clean+Code+%7C+Performance+%7C+Architecture" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1100&color=22D3EE&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;PHP+%7C+Laravel+%7C+JavaScript;Building+Modern%2C+Scalable+Web+Applications;Clean+Architecture+%7C+Performance+%7C+Reliable+Delivery" alt="Typing animation" />
 
 <br />
 <br />
@@ -20,8 +20,8 @@
 <img src="https://img.shields.io/github/stars/TheRawon?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=f59e0b" alt="GitHub stars" />
 
 <p>
-  I build scalable web applications, care about clean architecture,
-  and enjoy turning product ideas into reliable backend systems.
+  Full stack developer focused on building fast, scalable, and user-friendly web applications
+  with clean backend architecture and polished frontend experiences.
 </p>
 
 <p>
@@ -40,51 +40,29 @@
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:312e81&height=2&section=header&reversal=false" width="100%" alt="" />
-</div>
-
-## Highlights
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-111827?style=for-the-badge&logo=serverfault&logoColor=38bdf8" alt="Backend Engineering" />
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Specialty-Laravel%20Apps-111827?style=for-the-badge&logo=laravel&logoColor=fb7185" alt="Laravel Apps" />
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Goal-Scalable%20Systems-111827?style=for-the-badge&logo=githubactions&logoColor=4ade80" alt="Scalable Systems" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## About Me
+## Professional Summary
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="56%" valign="top">
 
-- Backend developer focused on `PHP` and `Laravel`
-- Interested in secure, scalable, and maintainable systems
-- Currently learning advanced backend architecture
-- Enjoy performance tuning and clean code practices
+- Build full stack web applications from idea to deployment
+- Strong with `PHP`, `Laravel`, `MySQL`, `HTML`, `CSS`, and `JavaScript`
+- Focused on clean code, performance, scalability, and maintainability
+- Interested in modern UI, API design, authentication, and system architecture
+- Continuously improving across both backend and frontend engineering
 
   </td>
-    <td width="50%">
+    <td width="44%" valign="top">
 
 ```php
-class Developer
+class DeveloperProfile
 {
     public string $name = 'Prakash Yadav';
-    public array $specialties = ['PHP', 'Laravel', 'MySQL'];
-    public string $focus = 'Scalable backend systems';
-    public string $mindset = 'Build it clean, fast, and reliable';
+    public string $role = 'Full Stack Developer';
+    public array $stack = ['PHP', 'Laravel', 'JavaScript', 'MySQL'];
+    public array $strengths = ['APIs', 'UI', 'Performance', 'Architecture'];
+    public string $approach = 'Build clean, scalable, user-focused products';
 }
 ```
 
@@ -94,7 +72,20 @@ class Developer
 
 ---
 
+## Core Focus
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Frontend-Clean%20UI%20%26%20Responsive%20Design-111827?style=for-the-badge&logo=css3&logoColor=38bdf8" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Backend-Secure%20APIs%20%26%20Business%20Logic-111827?style=for-the-badge&logo=laravel&logoColor=fb7185" alt="Backend" />
+  <img src="https://img.shields.io/badge/Database-Structured%20%26%20Reliable%20Data-111827?style=for-the-badge&logo=mysql&logoColor=60a5fa" alt="Database" />
+  <img src="https://img.shields.io/badge/Goal-Professional%20Grade%20Web%20Apps-111827?style=for-the-badge&logo=githubactions&logoColor=4ade80" alt="Goal" />
+</div>
+
+---
+
 ## Tech Stack
+
+### Languages and Frameworks
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -108,9 +99,50 @@ class Developer
 
 <br />
 
+### Tools I Work With
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,git,github,vscode&theme=dark" alt="Skill icons" />
 </div>
+
+---
+
+## What I Build
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+
+### Web Apps
+
+- Business websites
+- Admin dashboards
+- CRUD systems
+- Responsive interfaces
+
+  </td>
+    <td width="33%" valign="top">
+
+### Backend Systems
+
+- REST APIs
+- Authentication flows
+- Database design
+- Role-based access
+
+  </td>
+    <td width="33%" valign="top">
+
+### Engineering Goals
+
+- Clean architecture
+- Better performance
+- Reusable components
+- Smooth user experience
+
+  </td>
+  </tr>
+</table>
 
 ---
 
@@ -129,9 +161,9 @@ class Developer
 
 <br />
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TheRawon&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
-</div> -->
+</div>
 
 ---
 
@@ -143,8 +175,8 @@ class Developer
 
 ---
 
-## ✨ Quote
+## Philosophy
 
-> “Code is like humor. When you have to explain it, it’s bad.” 😄
-
----
+<div align="center">
+  <sub>Build products that are clean in code, clear in design, and reliable in real use.</sub>
+</div>
